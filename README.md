@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm a final-year student
-
+# Hello everybody! I'm Bao, a Vietnamese Web Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/le-duong-chi-bao-3954a12a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leduongchibao0112@gmail.com) 
